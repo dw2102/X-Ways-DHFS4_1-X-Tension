@@ -1,0 +1,11 @@
+LIBRARY
+EXPORTS
+	XT_Init				@1
+	XT_About			@2
+	XT_Prepare			@3
+	XT_Done				@4
+	XT_ProcessItemEx	@5
+	XT_SectorIOInit		@6
+	XT_SectorIO			@7
+	XT_FileIO			@8
+	XT_SectorIODone		@9
