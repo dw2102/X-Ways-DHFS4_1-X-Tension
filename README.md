@@ -17,7 +17,9 @@ After that, close the opened image and open it via disk I/O with the X-Tension (
 
 <img width="344" height="319" alt="Screenshot 2025-12-05 073657" src="https://github.com/user-attachments/assets/398351ab-d690-4435-8010-437e11a7bc6e" />
 
-It will once again search the whole disk. This is neccessary because the program need to know all the locations and offsets in the filesystem.
+It will once again search the whole disk. This is neccessary because the program need to know all the locations and offsets in the filesystem. Now, the fragmented files can be accessed.
+
+I recommend to read the paper which you can find in this GitHub repository. It's in german for now, I'm planning to translate it into english.
 
 X-Tension is tested on version 21.4 SR-5
 
